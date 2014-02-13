@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.peon</groupId>
 	<artifactId>peon</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Peon</name>
 	<description>A peon that goes away in the background to perform any menial labour tasks you care to throw at it.</description>
 	<properties>
