@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.githubpeon</groupId>
     <artifactId>peon</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
     <name>Peon</name>
     <description>A peon that goes away in the background to perform any menial labour tasks you care to throw at it.</description>
